@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Abhinandan Vyas
 #### I am an Electronics Engineer and Freelance Web developer from BITS-Pilani
-![I am an Electronics Engineer and Freelance Web developer from BITS-Pilani](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am an Electronics Engineer and Freelance Web developer from BITS-Pilani]([![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev))
 <br>
 I am super passionate about computer programming learning and developing innovative projects using new-age Tech Stack
 
@@ -72,7 +72,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS/ Laravel / Docker / ANGULAR / ANDROID W
 
 ![Profile views](https://gpvc.arturio.dev/TheRhicrosoradile1)  
 <hr>
-[website]: COMING SOON <BR>
+
 ([Youtube](https://www.youtube.com/channel/UCL7LjN6RT5e5wg8_COWp6Zw ))<BR>
 ([Linkedin](https://www.linkedin.com/in/abhinandan-vyas-a96677164/ )) <BR>
 ([Portfolio](https://loving-montalcini-f52bd0.netlify.app))  <BR>
