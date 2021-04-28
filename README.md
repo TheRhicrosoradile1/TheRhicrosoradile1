@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Abhinandan Vyas
 #### I am an Electronics Engineer and Freelance Web developer from BITS-Pilani
-![ALT TEXT](https://giphy.com/gifs/carl-sagan-mbhseRYedlG5W")
+![ALT TEXT](https://giphy.com/gifs/carl-sagan-mbhseRYedlG5W)
 <br>
 I am super passionate about computer programming learning and developing innovative projects using new-age Tech Stack
 
