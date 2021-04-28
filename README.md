@@ -14,7 +14,7 @@ I am super passionate about computer programming learning and developing innovat
 
 
 ## I'm a Developer, Creator, and Mentor!!
-- ✍ You can find my projects here [https://loving-montalcini-f52bd0.netlify.app]
+- ✍ You can find my projects here (Portfolio)[https://loving-montalcini-f52bd0.netlify.app]
 - 🔭 I’m currently working on my first Job.
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React Native and Azure
