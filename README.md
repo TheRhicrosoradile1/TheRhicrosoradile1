@@ -26,7 +26,7 @@ I am super passionate about computer programming learning and developing innovat
 Skills: VUE JS / REACT / JS / HTML / CSS/ Laravel / Docker / ANGULAR / ANDROID WITH JAVA / REACT,REDUX,HOOKS
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="TheRhicrosoradile1 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="TheRhicrosoradile1 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/abhinandan-vyas-a96677164]
 
 <br />
 
@@ -64,7 +64,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS/ Laravel / Docker / ANGULAR / ANDROID W
 
 </details>
 
-[website]: COMING SOON
-[youtube]: https://www.youtube.com/channel/UCL7LjN6RT5e5wg8_COWp6Zw
-[linkedin]: https://www.linkedin.com/in/abhinandan-vyas-a96677164/
-[portfolio]:https://loving-montalcini-f52bd0.netlify.app
+[website]: COMING SOON <BR>
+[youtube]: https://www.youtube.com/channel/UCL7LjN6RT5e5wg8_COWp6Zw <BR>
+[linkedin]: https://www.linkedin.com/in/abhinandan-vyas-a96677164/  <BR>
+[portfolio]:https://loving-montalcini-f52bd0.netlify.app  <BR>
