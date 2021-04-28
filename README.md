@@ -65,6 +65,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS/ Laravel / Docker / ANGULAR / ANDROID W
 </details>
 
 [website]: COMING SOON <BR>
-([Youtube]( https://www.youtube.com/channel/UCL7LjN6RT5e5wg8_COWp6Zw ))<BR>
-([Linkedin] (https://www.linkedin.com/in/abhinandan-vyas-a96677164/ )) <BR>
-([PPortfolio](https://loving-montalcini-f52bd0.netlify.app))  <BR>
+([Youtube](https://www.youtube.com/channel/UCL7LjN6RT5e5wg8_COWp6Zw ))<BR>
+([Linkedin](https://www.linkedin.com/in/abhinandan-vyas-a96677164/ )) <BR>
+([Portfolio](https://loving-montalcini-f52bd0.netlify.app))  <BR>
