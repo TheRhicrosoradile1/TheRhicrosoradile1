@@ -71,18 +71,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS/ Laravel / Docker / ANGULAR / ANDROID W
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TheRhicrosoradile1)  
 
 ![Profile views](https://gpvc.arturio.dev/TheRhicrosoradile1)  
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="TheRhicrosoraadile1's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-</details>
-
+<hr>
 [website]: COMING SOON <BR>
 ([Youtube](https://www.youtube.com/channel/UCL7LjN6RT5e5wg8_COWp6Zw ))<BR>
 ([Linkedin](https://www.linkedin.com/in/abhinandan-vyas-a96677164/ )) <BR>
